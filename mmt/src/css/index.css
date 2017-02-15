@@ -1,0 +1,40 @@
+.bx-wrapper{
+    box-shadow: none;
+}
+.bx-wrapper img{
+    display: inline-block;
+}
+.heading2{
+    font-size: 20px;
+    padding: 10px;
+}
+.border{
+    border: 1px solid black;
+}
+#bx1-prev, #bx1-next{
+    position: absolute;
+    top:30%;
+}
+#bx1-next{
+    right: 15px;
+}
+.bxslider-2-ct .bx-controls{
+    position: relative;
+    top: -254px;
+    right: -200px;
+}
+/*.bx-wrapper .bx-prev{
+    background: url("../img/left.png") 0 0 no-repeat;
+}
+.bx-wrapper .bx-prev:hover{
+    background: url("../img/left.png") 0 0 no-repeat;
+}
+.bx-wrapper .bx-next{
+    background: url("../img/right.png") 0 0 no-repeat;
+}
+.bx-wrapper .bx-next:hover{
+    background: url("../img/right.png") 0 0 no-repeat;
+}*/
+.weather-tile{
+    background-color: #009DEE;
+}
