@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpjitendrapal/pocs.git"
+  },
+  "author": "Jitendra Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpjitendrapal/pocs/issues"
+  },
+  "homepage": "https://github.com/jpjitendrapal/pocs#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
