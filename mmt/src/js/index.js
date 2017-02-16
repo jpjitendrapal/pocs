@@ -6,7 +6,6 @@ $(document).ready(function(){
     slideMargin: 5,
     moveSlides: 1,
     startSlide: 4,
-    // randomStart: true,
     nextSelector: '#bx1-next',
     prevSelector: '#bx1-prev',
     nextText: '<img src="./mmt/src/img/right.png" />',
